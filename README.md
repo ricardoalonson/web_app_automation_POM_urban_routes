@@ -1,7 +1,7 @@
 # Proyecto 7 - Automatización de UrbanRoutes
 
 ## Descripción
-Este proyecto automatiza el proceso de reserva de Urban Routes utilizando Selenium WebDriver y Python. 
+Este proyecto automatiza el proceso de reserva de Urban Routes utilizando Selenium WebDriver y Python. \
 Cubre diversas funcionalidades como establecer rutas, seleccionar tarifas de taxi, proporcionar números de teléfono
 y detalles de tarjetas de crédito, enviar mensajes a los conductores y solicitar servicios adicionales como mantas
 y helados.
@@ -29,5 +29,3 @@ y helados.
 - Antes de ejecutar las pruebas, asegúrate de tener la última versión de Chrome instalada.
 - Asegúrate de que el WebDriver para Chrome sea compatible con tu versión de Chrome.
 - Actualiza el archivo `data.py` con los datos de prueba relevantes como URL, direcciones, números de teléfono y detalles de tarjetas de crédito.
-
-
