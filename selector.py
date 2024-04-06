@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-# Está página conserva todos los selectores utilizados en las clases de main.py
+# This page preserves all the selectors used in the main.py classes
 
 # class UrbanRoutesPage:
 from_field = (By.ID, 'from')
