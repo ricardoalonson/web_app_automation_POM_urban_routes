@@ -16,7 +16,6 @@ and ice creams.
 
 ## Instructions for Running the Tests
 1. Clone the repository to your local machine:
-    git clone git@github.com:username/qa-project-es.git
 
 2. Install the required dependencies
 - Selenium
