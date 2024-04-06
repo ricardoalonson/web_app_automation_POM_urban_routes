@@ -1,31 +1,33 @@
-# Proyecto 7 - Automatización de UrbanRoutes
+# Project 7 - UrbanRoutes Automation
 
-## Descripción
-Este proyecto automatiza el proceso de reserva de Urban Routes utilizando Selenium WebDriver y Python. \
-Cubre diversas funcionalidades como establecer rutas, seleccionar tarifas de taxi, proporcionar números de teléfono
-y detalles de tarjetas de crédito, enviar mensajes a los conductores y solicitar servicios adicionales como mantas
-y helados.
+## Description
+This project automates the reservation process of UrbanRoutes using Selenium WebDriver and Python.
+It covers various functionalities such as setting routes, selecting taxi fares, providing phone numbers
+and credit card details, sending messages to drivers, and requesting additional services such as blankets
+and ice creams.
 
-## Tecnologías y Técnicas Utilizadas
-- **Python:** Lenguaje de programación utilizado para la creación de scripts de automatización.
-- **Selenium WebDriver:** Herramienta de automatización utilizada para interactuar con elementos web.
-- **pytest:** Marco de pruebas utilizado para escribir y ejecutar casos de prueba.
-- **WebDriverWait:** Utilizado para esperar a que ocurran condiciones específicas antes de continuar con la ejecución.
-- **Modelo de Objetos de Página (POM):** Patrón de diseño utilizado para organizar y gestionar elementos web y acciones dentro de clases de página.
-- **XPath:** Utilizado para localizar elementos web dentro de la estructura HTML.
+## Technologies and Techniques Used
+- **Python:** Programming language used for automation script creation.
+- **Selenium WebDriver:** Automation tool used to interact with web elements.
+- **pytest:** Testing framework used to write and execute test cases.
+- **WebDriverWait:** Used to wait for specific conditions to occur before continuing execution.
+- **Page Object Model (POM):** Design pattern used to organize and manage web elements and actions within page classes.
+- **XPath:** Used to locate web elements within the HTML structure.
 
-## Instrucciones para Ejecutar las Pruebas
-1. Clona el repositorio en tu máquina local:
+## Instructions for Running the Tests
+1. Clone the repository to your local machine:
     git clone git@github.com:username/qa-project-es.git
 
-2. Instala las dependencias requeridas
-    - Selenium
-    - Pytest
-3. Navega hasta el directorio del proyecto:
-    
-4. Ejecuta la suite de pruebas:
-    mediante Pyest
-## Notas
-- Antes de ejecutar las pruebas, asegúrate de tener la última versión de Chrome instalada.
-- Asegúrate de que el WebDriver para Chrome sea compatible con tu versión de Chrome.
-- Actualiza el archivo `data.py` con los datos de prueba relevantes como URL, direcciones, números de teléfono y detalles de tarjetas de crédito.
+2. Install the required dependencies
+- Selenium
+- Pytest
+
+3. Navigate to the project directory:
+
+4. Run the test suite:
+    using Pyest
+
+## Notes
+- Before running the tests, ensure you have the latest version of Chrome installed.
+- Ensure that the WebDriver for Chrome is compatible with your version of Chrome.
+- Update the `data.py` file with relevant test data such as URLs, addresses, phone numbers, and credit card details.
