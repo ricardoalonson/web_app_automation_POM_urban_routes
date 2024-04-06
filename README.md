@@ -30,3 +30,4 @@ and ice creams.
 - Before running the tests, ensure you have the latest version of Chrome installed.
 - Ensure that the WebDriver for Chrome is compatible with your version of Chrome.
 - Update the `data.py` file with relevant test data such as URLs, addresses, phone numbers, and credit card details.
+- This code includes explicit pauses for demonstration purposes.
