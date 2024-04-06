@@ -18,8 +18,8 @@ and ice creams.
 1. Clone the repository to your local machine:
 
 2. Install the required dependencies
-- Selenium
-- Pytest
+    -  Selenium
+    - Pytest
 
 3. Navigate to the project directory:
 
